@@ -8,7 +8,7 @@ public:
 private:
     char *number = nullptr;
     int number_long = 0;
-    bool samaller_than_0 = false;
+    bool negative = false;
 };
 /*
 1.推荐压栈进行存储
